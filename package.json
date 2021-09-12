@@ -1,7 +1,7 @@
 {
 	"name": "eval_expr",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Arithmetic expressions evaluator ",
 	"main": "eval_expr.js",
 	"directories": {
 		"test": "test"
@@ -12,10 +12,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@git.epitech.eu:/romain.lebesle@epitech.eu/ALG_eval_expr"
+		"url": "https://github.com/thoughtsunificator/eval_expr"
 	},
+	"bugs": {
+		"url": "https://github.com/thoughtsunificator/eval_expr/issues"
+	},
+	"author": "Romain Lebesle <oss@thoughtsunificator.me> (https://thoughtsunificator.me)",
 	"author": "",
-	"license": "ISC",
+	"license": "MIT",
 	"devDependencies": {
 		"@thoughtsunificator/nodeunit-esm": "^0.12.6",
 		"eslint": "^7.0.0"
