@@ -1,0 +1,23 @@
+{
+	"name": "eval_expr",
+	"version": "1.0.0",
+	"description": "",
+	"main": "eval_expr.js",
+	"directories": {
+		"test": "test"
+	},
+	"type": "module",
+	"scripts": {
+		"test": "nodeunit-esm"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@git.epitech.eu:/romain.lebesle@epitech.eu/ALG_eval_expr"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@thoughtsunificator/nodeunit-esm": "^0.12.6",
+		"eslint": "^7.0.0"
+	}
+}
