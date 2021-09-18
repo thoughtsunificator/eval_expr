@@ -1,6 +1,6 @@
 {
 	"name": "eval_expr",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Arithmetic expressions evaluator ",
 	"main": "eval_expr.js",
 	"directories": {
@@ -17,7 +17,6 @@
 	"bugs": {
 		"url": "https://github.com/thoughtsunificator/eval_expr/issues"
 	},
-	"author": "Romain Lebesle <oss@thoughtsunificator.me> (https://thoughtsunificator.me)",
 	"author": "",
 	"license": "MIT",
 	"devDependencies": {
