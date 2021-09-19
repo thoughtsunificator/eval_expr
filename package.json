@@ -1,6 +1,6 @@
 {
 	"name": "eval_expr",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Arithmetic expressions evaluator ",
 	"main": "eval_expr.js",
 	"directories": {
