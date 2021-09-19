@@ -8,7 +8,7 @@
 	},
 	"type": "module",
 	"scripts": {
-		"test": "nodeunit-esm"
+		"test": "mocha"
 	},
 	"repository": {
 		"type": "git",
@@ -20,7 +20,7 @@
 	"author": "",
 	"license": "MIT",
 	"devDependencies": {
-		"@thoughtsunificator/nodeunit-esm": "^0.12.6",
-		"eslint": "^7.0.0"
+		"eslint": "^7.0.0",
+		"mocha": "^9.1.1"
 	}
 }
